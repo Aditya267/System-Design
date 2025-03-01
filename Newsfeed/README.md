@@ -17,4 +17,34 @@ Since **so many people** use social media, the system must be **fast**, **person
 ✅ **How to handle billions of users?** (Huge scale!)  
 ✅ **How to make updates appear instantly?** (Real-time magic!)  
 
-💡 **TL;DR**: A newsfeed is like a personalized magic board that **shows updates from people you follow** in real time, keeping you informed and entertained! 🎉📲
+
+### **How Do We Design a Newsfeed System?**
+To create a **newsfeed system** (like Facebook or Twitter), we **break it into 3 steps**:
+
+---
+
+### **1️⃣ [Requirements (What the System Needs)](Requirements.md)**
+Before building, we must decide:  
+✅ **What should the feed show?** (Posts, likes, ads, etc.)  
+✅ **How to rank posts?** (Newer? More likes? Friends first?)  
+✅ **How to handle billions of users?** (Fast & scalable)  
+
+---
+
+### **2️⃣ Design (How It Works)**
+Once we know what we need, we design:  
+🛠 **How do we store data?** (Database setup)  
+⚙ **How do we rank posts?** (Algorithms & machine learning)  
+📡 **How do we send updates fast?** (Real-time systems like WebSockets)  
+
+---
+
+### **3️⃣ Evaluation (Does It Work Well?)**
+After building, we **test & improve**:  
+📊 **Is it fast?** (Loads in under 2 seconds)  
+🔄 **Does it update in real time?** (New posts appear instantly)  
+🔧 **Can it handle billions of users?** (Scalable & reliable)  
+
+---
+
+💡 **TL;DR**: A **newsfeed** shows **personalized posts** in real time. To design one, we **define requirements, build a ranking system, and optimize performance**—making sure it's **fast, relevant, and scalable**! 🚀📲
