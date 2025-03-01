@@ -1,4 +1,4 @@
-### **What is a Newsfeed? **
+### **What is a Newsfeed?**
 Imagine your **newsfeed** is like a **magic bulletin board** 📜 where you see updates from your friends, favorite celebrities, and pages you follow. Every time someone posts a new picture, video, or status, it **magically appears** on your board!  
 
 ### **How Does It Work?**  
