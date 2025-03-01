@@ -1,6 +1,6 @@
 ### **Requirements of a Newsfeed System**  
 
-Imagine you're designing a **newsfeed system** for a huge social media platform like Facebook, Twitter, or Instagram. It needs to show the right posts to the right people **fast**! Here’s what we need to consider:  
+You're designing a **newsfeed system** for a huge social media platform like Facebook, Twitter, or Instagram. It needs to show the right posts to the right people **fast**! Here’s what we need to consider:  
 
 ---
 
