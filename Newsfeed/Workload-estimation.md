@@ -1,4 +1,4 @@
-### **ELI5: How Much Power Do We Need for a Newsfeed System?** ⚡💾🖥️  
+### **How Much Power Do We Need for a Newsfeed System?** ⚡💾🖥️  
 
 Imagine running **the biggest restaurant in the world** 🍽️—**500 million people** come in every day, and each one orders **10 meals**. We need to make sure we have enough **chefs, storage, and tables** to serve them all quickly.  
 
